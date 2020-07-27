@@ -1,4 +1,4 @@
 # phoneringertimer
-This jailbreak tweak will track how long your phone is ringing for missed calls.
+This jailbreak tweak will track for how many seconds your phone is ringing.
 
 ![Design](https://raw.githubusercontent.com/MauMau97/phoneringertimer/master/IMG_1511.jpg)
